@@ -1,2 +1,3 @@
 sushi
 yakiniku
+kome
